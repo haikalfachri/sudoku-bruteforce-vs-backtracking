@@ -1,4 +1,4 @@
-# Sudoku Puzzle difficults for execution time test
+# Sudoku Puzzle difficulty for execution time test
 
 easy = [
     [0, 0, 0, 0, 0, 4, 6, 7, 0],

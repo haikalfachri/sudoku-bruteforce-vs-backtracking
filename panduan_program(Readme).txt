@@ -1,7 +1,7 @@
 Panduan Running Program
 1. Copy salah satu dari ketiga sudoku di bawah ini
 2. Paste pada variable "PuzzleToSolve"
-3. Run program
+3. Run program python seperti biasa
 
 
 # Sudoku Puzzle difficults for execution time test

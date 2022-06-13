@@ -1,5 +1,10 @@
-# Sudoku Puzzle difficults for execution time test
+Panduan Running Program
+1. Copy salah satu dari ketiga sudoku di bawah ini
+2. Paste pada variable "PuzzleToSolve"
+3. Run program
 
+
+# Sudoku Puzzle difficults for execution time test
 easy = [
     [0, 0, 0, 0, 0, 4, 6, 7, 0],
     [0, 0, 9, 2, 0, 0, 8, 0, 1],

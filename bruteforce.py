@@ -39,7 +39,7 @@ def str_to_puzzle(s):
             puzzleSolution.append(temp)
     return puzzleSolution
 
-# calidation check
+# validation check
 def validation(i, j):
     # check row
     if i//9 == j//9:

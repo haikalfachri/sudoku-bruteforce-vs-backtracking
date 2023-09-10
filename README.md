@@ -1,6 +1,6 @@
-# Tugas-Besar-Strategi-Algoritma
-Source Code Algoritma Brute Force dan Backtracking dalam menyelesaikan puzzle sudoku 9x9
-# Panduan Running Program:
-1. Copy salah satu dari ketiga sudoku pada file "sudoku.txt"
-2. Paste pada variable "PuzzleToSolve"
-3. Run program python seperti biasa
+# Final-Task-Strategy-Algorithm
+Source Code Brute Force Algorithm and Backtracking in solving the 9x9 sudoku puzzle
+# Running Program Guide:
+1. Copy one of the three sudoku in the file "sudoku.txt"
+2. Paste in the variable "PuzzleToSolve"
+3. Run the python program as usual
